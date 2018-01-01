@@ -1,0 +1,16 @@
+{
+  "name": "find-source-api",
+  "version": "1.0.0",
+  "description": "API Service using MongoDB to store data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MongoDB",
+    "NodeJS",
+    "ExpressJS"
+  ],
+  "author": "Vijay Yadav",
+  "license": "ISC"
+}
